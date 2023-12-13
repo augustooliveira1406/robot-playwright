@@ -10,11 +10,11 @@
         },
         {
           "name": "serverest/userEmail",
-          "value": "aaroncollins@example.org"
+          "value": "melody32@example.org"
         },
         {
           "name": "serverest/userToken",
-          "value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFhcm9uY29sbGluc0BleGFtcGxlLm9yZyIsInBhc3N3b3JkIjoiMTIzNDU2IiwiaWF0IjoxNzAyMzg2MTM1LCJleHAiOjE3MDIzODY3MzV9.AkE1CivfkOMCv_ne3KuVbRzh60YC61rz5L9XWfnqZUw"
+          "value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1lbG9keTMyQGV4YW1wbGUub3JnIiwicGFzc3dvcmQiOiIxMjM0NTYiLCJpYXQiOjE3MDI0MDg5OTUsImV4cCI6MTcwMjQwOTU5NX0.GOx9KZPorSKK8808t37BdIG8lyoBbDDJ3dcA7g3_MCs"
         }
       ]
     }
