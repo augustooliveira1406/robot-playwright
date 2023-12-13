@@ -30,11 +30,7 @@ jobs:
           pip install -U -r requirements.txt
           sudo npm install @playwright/test
           sudo npx playwright install-deps
-<<<<<<< HEAD
           rfbrowser init
-=======
-          rfbrowser init 
->>>>>>> bafc488ecfb60ba3e186587929ebff038e17048c
       
       - name: Run RF Web Tests
         run: |
@@ -51,7 +47,7 @@ jobs:
 
       - name: Download results
         if: always()
-        uses: actions/upload-artifact@v3
+        uses: actions/download-artifact@v1
         with:
           name: results-${{ matrix.browser }}
       
